@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Olsza Olszewski - Moje CV
 lang: pl
 ---
