@@ -40,7 +40,7 @@ Dodatkowo, jestem członkiem [PTI](https::pti.org.pl) (Polskie Towarzystwo Infor
 
 ### Programista, audytor bezpieczeństwa
 **OFF77 sp. z o.o. (MetroWeb), Warszawa** | 2018-05 - obecnie
-- pomysłodawca: projektowanie i realizacja projektu `[www.metroweb.pl](https://www.metroweb.pl)`
+- pomysłodawca: projektowanie i realizacja projektu [MetroWeb.pl](https://www.metroweb.pl)
 - audyt bezpieczeństwa aplikacji
 - integracja z systemami zewnętrznymi poprzez API (Certyfikaty SSL, Płatności, Domeny, Hosting)
 - konfiguracja i zarządzanie serwerami
