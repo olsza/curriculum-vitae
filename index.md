@@ -48,7 +48,7 @@ Potrafię pracować w projektach "legacy" oraz "monolit" i aby je rozdzielić na
 
 ### Programista PHP, Leader
 **DarwinApps sp. z o.o., Warszawa** | 2023-11 - 2025-01
-- realizacja projektu startup-owego od podstaw [DarwinTools.pl](https://darwintools.pl)
+- realizacja projektu startup-owego CRM/ERP od podstaw [DarwinTools.pl](https://darwintools.pl)
 - dbając o jakość kodu, bezpieczeństwo i wydajność
 - refaktoryzacja kodu + Code Review
 - tworzenie testów jednostkowych
@@ -173,7 +173,7 @@ Potrafię pracować w projektach "legacy" oraz "monolit" i aby je rozdzielić na
 ## Projekty
 
 ### DarwinTools
-- **Opis**: Projekt startup-owy od podstaw. Aplikacja dla firmy zajmująca się Inkubatorem Przedsiębiorczości.
+- **Opis**: Projekt startup-owy systemu CRM/ERP od podstaw. Aplikacja dla firmy zajmująca się Inkubatorem Przedsiębiorczości.
 System zbiera dane z kwestionariusza, a następnie na ich podstawie generuje dokumenty dla pracowników:
   - Kwestionariusze do umów o pracę i umowy zlecenia
   - Umowy o pracę, umowy zlecenia oraz umowy o dzieło
