@@ -24,7 +24,7 @@ Jestem pracownikiem, który umie współpracować z zespołem, podejmować odpow
 Lubię poszukiwać innowacyjnych rozwiązań dla użytkowników. 
 Potrafię pracować w projektach "legacy" oraz "monolit" i aby je rozdzielić na mniejsze oraz oddzielne moduły.
 
-Dodatkowo, jestem członkiem [PTI](https://pti.org.pl) (Polskie Towarzystwo Informatyczne) oraz uczestnikiem [Sekurak.Academy](https://sekurak.academy) (cykl szkoleń z zakresu bezpieczeństwa IT).
+Dodatkowo jestem członkiem [PTI](https://pti.org.pl) (Polskie Towarzystwo Informatyczne) oraz uczestnikiem [Sekurak.Academy](https://sekurak.academy) (cykl szkoleń z zakresu bezpieczeństwa IT).
 
 
 ## Umiejętności
