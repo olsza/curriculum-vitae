@@ -49,6 +49,14 @@ Dodatkowo, jestem członkiem [PTI](https://pti.org.pl) (Polskie Towarzystwo Info
 - przygotowanie ofert handlowych (w tym przetargów)
 - dbanie o bezpieczeństwo danych
 
+### Programista PHP, Backend Developer
+**Anabru sp. z o.o., Władysławów k. Warszawy** | 2025-03 - 2025-05
+- naprawa błędów w aplikacji
+- tworzenie nowych funkcjonalności w aplikacji
+- dbając o jakość kodu, bezpieczeństwo i wydajność
+- refaktoryzacja kodu + Code Review
+- tworzenie testów jednostkowych
+
 ### Programista PHP, Leader
 **DarwinApps sp. z o.o., Warszawa** | 2023-11 - 2025-01
 - realizacja projektu startup-owego CRM/ERP od podstaw [DarwinTools.pl](https://darwintools.pl)
@@ -194,6 +202,8 @@ Początkowo aplikacja oceniała firmy na podstawie dostępnych danych ze źróde
 Późniejszych wersjach wprowadzono AI, gdzie nie tylko dostępnych danych publicznych, ale również danych przy współpracy z innymi firmami.
 - **Technologie**: TALL stack (Tailwind CSS, Alpine. js, Laravel, Livewire), PHP, PostgreSQL, Redis, Docker, PhpPest, CI/CD, Queue, Laravel Octane, API własne i zewnętrzne (GUS, NBP, KRS, płatności i wielu innych), WebHook, AWS, OpenSearch, Value Object
 
+### Mamy i To
+- **Opis**: Sklep on-line i aplikacja działająca na rynku e-grocery, oferującą zakupy spożywcze przez internet połączone z usługą dostawy prosto do Klienta.
 
 ### MetroWeb
 - **Opis**: Projekt startup-owy od podstaw. Umożliwia sprawdzenie dostępności oraz zakup domen internetowych, a także certyfikatów SSL i hostingów.
