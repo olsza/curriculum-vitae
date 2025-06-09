@@ -183,6 +183,9 @@ Dodatkowo jestem członkiem [PTI](https://pti.org.pl) (Polskie Towarzystwo Infor
 
 ## Projekty
 
+### Mamy i To
+- **Opis**: Sklep on-line i aplikacja działająca na rynku e-grocery, oferującą zakupy spożywcze przez internet połączone z usługą dostawy prosto do Klienta.
+
 ### DarwinTools
 - **Opis**: Projekt startup-owy systemu CRM/ERP od podstaw. Aplikacja dla firmy zajmująca się Inkubatorem Przedsiębiorczości.
 System zbiera dane z kwestionariusza, a następnie na ich podstawie generuje dokumenty dla pracowników:
@@ -201,9 +204,6 @@ System zbiera dane z kwestionariusza, a następnie na ich podstawie generuje dok
 Początkowo aplikacja oceniała firmy na podstawie dostępnych danych ze źródeł publicznych dając im ocenę na podstawie odpowiedniego algorytmu.
 Późniejszych wersjach wprowadzono AI, gdzie nie tylko dostępnych danych publicznych, ale również danych przy współpracy z innymi firmami.
 - **Technologie**: TALL stack (Tailwind CSS, Alpine. js, Laravel, Livewire), PHP, PostgreSQL, Redis, Docker, PhpPest, CI/CD, Queue, Laravel Octane, API własne i zewnętrzne (GUS, NBP, KRS, płatności i wielu innych), WebHook, AWS, OpenSearch, Value Object
-
-### Mamy i To
-- **Opis**: Sklep on-line i aplikacja działająca na rynku e-grocery, oferującą zakupy spożywcze przez internet połączone z usługą dostawy prosto do Klienta.
 
 ### MetroWeb
 - **Opis**: Projekt startup-owy od podstaw. Umożliwia sprawdzenie dostępności oraz zakup domen internetowych, a także certyfikatów SSL i hostingów.
