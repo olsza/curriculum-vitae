@@ -184,7 +184,8 @@ Dodatkowo jestem członkiem [PTI](https://pti.org.pl) (Polskie Towarzystwo Infor
 ## Projekty
 
 ### Mamy i To
-- **Opis**: Sklep on-line i aplikacja działająca na rynku e-grocery, oferującą zakupy spożywcze przez internet połączone z usługą dostawy prosto do Klienta.
+- **Opis**: Sklep on-line i aplikacja działająca na rynku e-grocery, oferującą zakupy spożywcze przez internet połączone z usługą dostawy prosto do Klienta. Sklep typu jak [Frisco.pl](https://www.frisco.pl), [Auchan.pl](https://www.auchan.pl) czy [Carrefour.pl](https://www.carrefour.pl).
+- **Technologie**: Laravel, PHP, PostgreSQL, Redis, Telescope, Laravel Nova, Docker, PhpPest, CI/CD, Queue, API zewnętrzne (płatności i wiele innych), amazon S3, WMS, TMS, Value Object, TDO,
 
 ### DarwinTools
 - **Opis**: Projekt startup-owy systemu CRM/ERP od podstaw. Aplikacja dla firmy zajmująca się Inkubatorem Przedsiębiorczości.
