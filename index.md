@@ -51,7 +51,7 @@ Dodatkowo jestem członkiem [PTI](https://pti.org.pl) (Polskie Towarzystwo Infor
 
 ### Programista PHP, Backend Developer
 **Anabru sp. z o.o., Władysławów k. Warszawy** | 2025-03 - 2025-05
-- naprawa błędów w aplikacji
+- naprawa błędów w aplikacji [Mamy i To](https://mamyito.pl)
 - tworzenie nowych funkcjonalności w aplikacji
 - dbając o jakość kodu, bezpieczeństwo i wydajność
 - refaktoryzacja kodu + Code Review
