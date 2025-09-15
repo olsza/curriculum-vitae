@@ -232,3 +232,17 @@ Na początek ma symulować API dla Domeny.TV, SSL, Hosting, płatności, faktury
 
 - **Polski**: Język ojczysty
 - **Angielski**: poziom umożliwiając prace z dokumentacją techniczną oraz raportami bezpieczeństwa
+
+### Moje Tłumaczenia
+
+- inicjator oraz implementator tłumaczeń w [Laravel Versions](https://laravelversions.com) (mój wkład: 100%), dzięki mnie strona jest dostępna w ponad 20 językach
+- grę [City Game Studio](www.city-game-studio.com) – (mój wkład: 100%)
+- [Draw.io](www.draw.io) – (mój wkład: ~ 50%)
+- [Open Collective](opencollective.com) - (mój wkład: ~67%)
+- [Crowdin](crowdin.com) - (mój wkład: ~23%)
+- Panel serwerowy [DirectAdmin](www.directadmin.com) - (mój wkład: ~17%)
+- Bootstrap (mój wkład: ~5%) ( www.getbootstrap.pl / www.getbootstrap.com.pl )
+i inne, m.in.:
+- Open Source Guides (https://opensource.guide/pl/),
+- Laravel Framework Lang (https://laravel-lang.com/),
+- Learn Git Branching (https://learngitbranching.js.org/?locale=pl)
