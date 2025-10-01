@@ -183,6 +183,10 @@ Dodatkowo jestem członkiem [PTI](https://pti.org.pl) (Polskie Towarzystwo Infor
 
 ## Projekty
 
+### OLOscaner
+- **Opis**: Aplikacja skanująca domeny internetowe (aktualnie .PL), pobiera z NASK domeny, a następnie ich statusy (czy są aktywne, wygasłe, w trakcie rejestracji, itp.) i zapisuje je w bazie danych. Oblicza ich wiek, a także sprawdza czy domena posiada certyfikat SSL. Dodatkowo sprawdza czy domena posiada stronę internetową (czy jest aktywna) oraz czy jest zaindeksowana w Google.
+- **Technologie**: Laravel, PHP, MySQL, Redis, Docker, CI/CD, Queue
+
 ### Mamy i To
 - **Opis**: Sklep on-line i aplikacja działająca na rynku e-grocery, oferującą zakupy spożywcze przez internet połączone z usługą dostawy prosto do Klienta. Sklep typu jak [Frisco.pl](https://www.frisco.pl), [Auchan.pl](https://www.auchan.pl) czy [Carrefour.pl](https://www.carrefour.pl).
 - **Technologie**: Laravel, PHP, PostgreSQL, Redis, Telescope, Laravel Nova, Docker, PhpPest, CI/CD, Queue, API zewnętrzne (płatności i wiele innych), amazon S3, WMS, TMS, Value Object, TDO,
