@@ -4,8 +4,6 @@ title: Olsza Olszewski - Moje CV
 lang: pl
 ---
 
-{% include pl/sections/highlights.md %}
-
 {% include pl/sections/contact.md %}
 {% include pl/sections/summary.md %}
 {% include pl/sections/skills.md %}
