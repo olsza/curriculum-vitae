@@ -3,6 +3,7 @@ layout: default
 title: Olsza Olszewski - Moje CV
 lang: pl
 subtitle: Programista PHP / Full-Stack Developer / Inżynier Oprogramowania
+footer_text: Strona powstała przy użyciu MarkDowł i Jekylla oraz jest hostowana na GitHub Pages. Kod źródłowy jest dostępny na GitHub
 ---
 
 {% include pl/sections/contact.md %}
