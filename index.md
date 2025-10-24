@@ -6,5 +6,5 @@ lang: en
 
 #### Wybierz język / Choose language
 
-- [Polski](/pl/)
-- [English](/en/)
+- 🇵🇱 [Polski](/pl/)
+- 🇬🇧 [English](/en/)
