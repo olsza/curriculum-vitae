@@ -1,0 +1,4 @@
+- business experience
+- identifying and proposing improvements
+- goal-oriented
+- continuous learning
