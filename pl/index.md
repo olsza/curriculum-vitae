@@ -2,6 +2,7 @@
 layout: default
 title: Olsza Olszewski - Moje CV
 lang: pl
+subtitle: Programista PHP / Full-Stack Developer / Inżynier Oprogramowania
 ---
 
 {% include pl/sections/contact.md %}
