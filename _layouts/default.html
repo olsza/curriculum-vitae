@@ -6,10 +6,13 @@
   <title>{{ page.title }}</title>
 </head>
 <body>
-<header style="display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;padding:10px;border-bottom:1px solid #ccc;">
+<header style="display:grid;grid-template-columns:auto 2fr;align-items:center;gap:10px;padding:10px;border-bottom:1px solid #ccc;">
 <!--  <div style="justify-self:start;font-weight:600;">Olsza Olszewski</div>-->
     <div>
-    <h1>Olsza Olszewski</h1>
+        <div style="display:flex;align-items:center;gap:10px;">
+            <h1>Olsza Olszewski</h1>
+            <span style="font-size:2rem;color:#333;"> - {{ page.subtitle }}</span>
+        </div>
         {% capture inc_exists_path %}/_includes/{{ page.lang }}/sections/highlights.md{% endcapture %}
         {% assign static_paths = site.static_files | map: "path" | join: "," %}
         {% assign page_paths = site.pages | map: "path" | join: "," %}
@@ -20,13 +23,15 @@
         {{ highlights | markdownify }}
         {% endif %}
     </div>
-  <nav style="justify-self:center;">
-    <a href="/en/" style="margin:0 8px;text-decoration:none;">🇬🇧 EN</a>
-    <a href="/pl/" style="margin:0 8px;text-decoration:none;">🇵🇱 PL</a>
-  </nav>
-  <div style="justify-self:end;">
-    <img src="/assets/images/olsza-cv-200.png" alt="Zdjęcie Olsza Olszewski" style="height:150px;width:150px;object-fit:cover;border-radius:50%;">
-  </div>
+    <div>
+      <nav style="justify-self:center;">
+        <a href="/en/" style="margin:0 8px;text-decoration:none;">🇬🇧 EN</a>
+        <a href="/pl/" style="margin:0 8px;text-decoration:none;">🇵🇱 PL</a>
+      </nav>
+      <div style="justify-self:end;">
+        <img src="/assets/images/olsza-cv-200.png" alt="Zdjęcie Olsza Olszewski" style="height:150px;width:150px;object-fit:cover;border-radius:50%;">
+      </div>
+    </div>
 </header>
 <main style="padding:12px 10px;">
 {{ content }}
