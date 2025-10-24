@@ -8,7 +8,18 @@
 <body>
 <header style="display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:10px;padding:10px;border-bottom:1px solid #ccc;">
 <!--  <div style="justify-self:start;font-weight:600;">Olsza Olszewski</div>-->
+    <div>
     <h1>Olsza Olszewski</h1>
+        {% capture inc_exists_path %}/_includes/{{ page.lang }}/sections/highlights.md{% endcapture %}
+        {% assign static_paths = site.static_files | map: "path" | join: "," %}
+        {% assign page_paths = site.pages | map: "path" | join: "," %}
+        {% assign inc_exists = static_paths | append: "," | append: page_paths | contains: inc_exists_path %}
+        {% if inc_exists %}
+        {% capture include_path %}{{ page.lang }}/sections/highlights.md{% endcapture %}
+        {% capture highlights %}{% include {{ include_path }} %}{% endcapture %}
+        {{ highlights | markdownify }}
+        {% endif %}
+    </div>
   <nav style="justify-self:center;">
     <a href="/en/" style="margin:0 8px;text-decoration:none;">🇬🇧 EN</a>
     <a href="/pl/" style="margin:0 8px;text-decoration:none;">🇵🇱 PL</a>
