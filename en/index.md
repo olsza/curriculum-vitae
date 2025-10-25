@@ -10,8 +10,8 @@ footer_text: This site was built with Markdown and Jekyll and is hosted on GitHu
 
 {% include en/sections/contact.md %}
 {% include en/sections/summary.md %}
-{% comment %}
 {% include en/sections/skills.md %}
+{% comment %}
 {% include en/sections/experience.md %}
 {% include en/sections/projects.md %}
 {% include en/sections/education.md %}
