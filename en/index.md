@@ -7,3 +7,5 @@ footer_text: This site was built with Markdown and Jekyll and is hosted on GitHu
 ---
 
 **Translation in progress — apologies for the inconvenience.. The full CV is currently available in Polish — please see:** 🇵🇱 [Polish version](/pl/)
+
+{% include en/sections/contact.md %}
