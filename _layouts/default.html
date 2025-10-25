@@ -11,8 +11,9 @@
     <div>
         <div style="display:flex;align-items:center;gap:10px;">
             <h1>Olsza Olszewski</h1>
-            <span style="font-size:2rem;color:#333;"> - {{ page.subtitle }}</span>
+            <span style="font-size:1.2rem;color:#333;"> - {{ page.subtitle }}</span>
         </div>
+        {% if page.lang and page.lang != "" %}
         {% capture inc_exists_path %}/_includes/{{ page.lang }}/sections/highlights.md{% endcapture %}
         {% assign static_paths = site.static_files | map: "path" | join: "," %}
         {% assign page_paths = site.pages | map: "path" | join: "," %}
@@ -21,6 +22,7 @@
         {% capture include_path %}{{ page.lang }}/sections/highlights.md{% endcapture %}
         {% capture highlights %}{% include {{ include_path }} %}{% endcapture %}
         {{ highlights | markdownify }}
+        {% endif %}
         {% endif %}
     </div>
     <div>
