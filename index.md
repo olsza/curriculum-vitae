@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Wybierz język / Choose language
-lang: en
+#lang: en
+subtitle: PHP Developer / Software Engineer
 ---
 
 #### Wybierz język / Choose language
