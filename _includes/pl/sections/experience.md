@@ -128,3 +128,4 @@
 - dbanie o bezpieczeństwo danych
 - tworzenie testów rekrutacyjne – informatyczne dla nowych kandydatów
 - skrypty / makra dla Excel-a
+- wsparcie techniczne L2 i L3 linii
