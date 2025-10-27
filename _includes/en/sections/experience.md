@@ -127,3 +127,4 @@
 - ensured data security
 - created IT recruitment tests for new candidates
 - wrote scripts/macros for Excel
+- L2 and L3 technical support
