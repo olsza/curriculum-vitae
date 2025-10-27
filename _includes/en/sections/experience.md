@@ -1,7 +1,7 @@
 ## Experience
 
 ### Programmer, security auditor
-**OFF77 sp. z o.o. (MetroWeb), Warsaw, Poland** | May 2018 – present
+**OFF77 sp. z o.o. (MetroWeb), Warsaw, Poland** | May 2018 – present <small>[project description 1](#metroweb)</small> <small>[project description 2](#oloscaner)</small>
 - originator of the design and implementation of the [MetroWeb.pl](https://www.metroweb.pl) project
 - application security audit
 - integration with external systems via API (SSL certificates, payments, domains, hosting)
@@ -12,7 +12,7 @@
 - ensuring data security
 
 ### PHP Programmer, Backend Developer
-**Anabru sp. z o.o., Władysławów near Warsaw, Poland** | March 2025 - May 2025
+**Anabru sp. z o.o., Władysławów near Warsaw, Poland** | March 2025 - May 2025 <small>[project description](#mamy-i-to)</small>
 - fixing bugs in the [Mamy i To](https://mamyito.pl) application
 - created new functionalities in the application
 - ensuring code quality, security, and performance
@@ -20,7 +20,7 @@
 - created unit tests
 
 ### PHP Developer, Leader
-**DarwinApps sp. z o.o., Warsaw, Poland** | 2023-11 - 2025-01
+**DarwinApps sp. z o.o., Warsaw, Poland** | 2023-11 - 2025-01 <small>[project description](#darwintools)</small>
 - implementation of a CRM/ERP startup project from scratch at [DarwinTools.pl](https://darwintools.pl)
 - ensuring code quality, security, and performance
 - code refactoring and Code Review
@@ -37,7 +37,7 @@
 - integration with external systems (API)
 
 ### PHP Developer, Leader
-**Lantrans sp. z o.o., Warsaw, Poland** | 2020-03 - 2023-05
+**Lantrans sp. z o.o., Warsaw, Poland** | 2020-03 - 2023-05 <small>[project description](#temida)</small>
 - designed and implemented  a startup project from scratch www.Temida.io (company verification system)
 - created improvements
 - integration with external systems (API)
@@ -61,9 +61,9 @@
 - developed and improved CRM system for www.royalad.pl
 
 ### PHP Developer
-**Freelancer, Warsaw, Poland** | 2017-09 - 2018-06
 - designed and implemented  the apteki24h.com.pl project from scratch
 - created the logo for apteki24h.com.pl
+**Freelancer, Warsaw, Poland** | 2017-09 - 2018-06 <small>[project description](#pharmacies)</small>
 - created multilingual websites, such as Apteki24h, and a database of pharmacies for specific countries (UK, DE, USA, and FR).
 - maintained websites such as plfoto.com, onephoto.net, and obiektywni.pl.
 
