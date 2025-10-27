@@ -61,9 +61,9 @@
 - developed and improved CRM system for www.royalad.pl
 
 ### PHP Developer
-- designed and implemented  the apteki24h.com.pl project from scratch
-- created the logo for apteki24h.com.pl
 **Freelancer, Warsaw, Poland** | 2017-09 - 2018-06 <small>[project description](#pharmacies)</small>
+- designed and implemented the apteki24h.com.pl project from scratch
+- created the logo for apteki24h.com.pl (24h Pharmacies)
 - created multilingual websites, such as Apteki24h, and a database of pharmacies for specific countries (UK, DE, USA, and FR).
 - maintained websites such as plfoto.com, onephoto.net, and obiektywni.pl.
 
