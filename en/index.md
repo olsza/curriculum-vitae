@@ -13,7 +13,7 @@ footer_text: This site was built with Markdown and Jekyll and is hosted on GitHu
 {% include en/sections/skills.md %}
 {% include en/sections/experience.md %}
 {% include en/sections/projects.md %}
-{% comment %}
 {% include en/sections/education.md %}
+{% comment %}
 {% include en/sections/languages.md %}
 {% endcomment %}
