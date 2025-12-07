@@ -1,5 +1,17 @@
 ## Doświadczenie
 
+### Programista PHP - dedykowany dla klienta Premium
+**Grupa Esprzedaż Ł. Sadłowski, J. Karnat spółka komandytowa** | 2025-11 - obecnie
+- prace nad rozwojem platformy e-commerce B2B i B2C
+- dbając o jakość kodu, bezpieczeństwo i wydajność
+- refaktoryzacja kodu + Code Review
+- integracja z systemami zewnętrznymi (API)
+- utrzymanie silnika logistyki
+- CI/CD
+- udział w spotkaniach z klientem
+- udział w planowaniu rozwoju produktu
+- wdrażanie nowych technologii i narzędzi w procesie rozwoju oprogramowania
+
 ### Programista, audytor bezpieczeństwa
 **OFF77 sp. z o.o. (MetroWeb), Warszawa** | 2018-05 - obecnie <small>[opis projektu 1](#metroweb)</small> <small>[opis projektu 2](#oloscaner)</small>
 - pomysłodawca: projektowanie i realizacja projektu [MetroWeb.pl](https://www.metroweb.pl)
