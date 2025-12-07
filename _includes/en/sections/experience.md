@@ -1,5 +1,17 @@
 ## Experience
 
+### PHP Developer – dedicated to premium customers
+**Grupa Esprzedaż Ł. Sadłowski, J. Karnat spółka komandytowa** | 2025-11 – present
+- working on the development of B2B and B2C e-commerce platforms.
+- ensuring code quality, security and performance
+- code refactoring and code review
+- integration with external systems (API)
+- logistics engine maintenance
+- CI/CD
+- participation in meetings with the client
+- participation in product development planning
+- implementation of new technologies and tools in the software development process
+
 ### Programmer, security auditor
 **OFF77 sp. z o.o. (MetroWeb), Warsaw, Poland** | May 2018 – present <small>[project description 1](#metroweb)</small> <small>[project description 2](#oloscaner)</small>
 - originator of the design and implementation of the [MetroWeb.pl](https://www.metroweb.pl) project
