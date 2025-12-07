@@ -12,7 +12,7 @@
 - participation in product development planning
 - implementation of new technologies and tools in the software development process
 
-### Programmer, security auditor
+### Deweloper, security auditor
 **OFF77 sp. z o.o. (MetroWeb), Warsaw, Poland** | May 2018 – present <small>[project description 1](#metroweb)</small> <small>[project description 2](#oloscaner)</small>
 - originator of the design and implementation of the [MetroWeb.pl](https://www.metroweb.pl) project
 - application security audit
@@ -23,7 +23,7 @@
 - preparation of commercial offers (including tenders)
 - ensuring data security
 
-### PHP Programmer, Backend Developer
+### PHP Developer, Backend Developer
 **Anabru sp. z o.o., Władysławów near Warsaw, Poland** | March 2025 - May 2025 <small>[project description](#mamy-i-to)</small>
 - fixing bugs in the [Mamy i To](https://mamyito.pl) application
 - created new functionalities in the application
@@ -79,7 +79,7 @@
 - created multilingual websites, such as Apteki24h, and a database of pharmacies for specific countries (UK, DE, USA, and FR).
 - maintained websites such as plfoto.com, onephoto.net, and obiektywni.pl.
 
-### Programmer / IT Specialist, DPO, Owner (my company)
+### Deweloper / IT Specialist, DPO, Owner (my company)
 **PHU Olsza, Warsaw, Poland** | 2008-09 - 2017-12
 - provided technical support
 - server and domain administration (Linux, DNS)
@@ -109,7 +109,7 @@
     - www.PoraNaDoktora.pl
     - and others
 
-### PHP Developer / IT Specialist
+### PHP Programmer / IT Specialist
 **Nowoczesna Firma S.A., Obserwatorium Zarządzania, Warsaw, Poland** | 2010-01 - 2014-02
 - provided technical support
 - managed security (access control, performing security audits)
@@ -129,7 +129,7 @@
 - performed  administrative tasks
 - programmed for the www.panfil.pl system (a document management system for banks)
 
-### Analyst - Developer
+### Analyst - Programmer
 **ROL-MAR, Płock, Poland** | 2007-01 - 2008-11
 - designed and implemented projects
 - deployed systems
